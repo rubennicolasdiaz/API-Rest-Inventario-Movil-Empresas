@@ -1,0 +1,11 @@
+Id	Usuario	Email	Password	Empresa	CodEmpresa
+1	Juan Perez	juan.perez@example.com	password123	Fruteria La Huerta	E101
+2	Maria Lopez	maria.lopez@example.com	password456	Ferreteria El Tornillo	E102
+3	Carlos Sanchez	carlos.sanchez@example.com	password789	Construcciones Sol	E103
+4	Ana Martinez	ana.martinez@example.com	password321	Panaderia Dulce Hogar	E104
+5	Luis Gomez	luis.gomez@example.com	password654	Libreria El Saber	E105
+6	Laura Fernandez	laura.fernandez@example.com	password987	Joyeria Brillante	E106
+7	Pedro Ramirez	pedro.ramirez@example.com	password111	Restaurante Buen Sabor	E107
+8	Sofia Torres	sofia.torres@example.com	password222	Tienda de Ropa Elegante	E108
+9	Miguel Diaz	miguel.diaz@example.com	password333	Papeleria La Pluma	E109
+10	Elena Ruiz	elena.ruiz@example.com	password444	Farmacia Salud	E110

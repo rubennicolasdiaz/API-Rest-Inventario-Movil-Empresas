@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anjen\\Desktop\\PROYECTOS\\APIRestFicheros_.NET_9-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5C02-112E-437B-876D-F68385F4DCBB}|APIRestInventarioMovilEmpresas.csproj|c:\\users\\anjen\\desktop\\proyectos\\apirestficheros_.net_9-main\\uploads\\e107_inventario.items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6DA5C02-112E-437B-876D-F68385F4DCBB}|APIRestInventarioMovilEmpresas.csproj|solutionrelative:uploads\\e107_inventario.items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E107_Inventario.items.json",
+              "DocumentMoniker": "C:\\Users\\anjen\\Desktop\\PROYECTOS\\APIRestFicheros_.NET_9-main\\Uploads\\E107_Inventario.items.json",
+              "RelativeDocumentMoniker": "Uploads\\E107_Inventario.items.json",
+              "ToolTip": "C:\\Users\\anjen\\Desktop\\PROYECTOS\\APIRestFicheros_.NET_9-main\\Uploads\\E107_Inventario.items.json",
+              "RelativeToolTip": "Uploads\\E107_Inventario.items.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T15:59:22.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

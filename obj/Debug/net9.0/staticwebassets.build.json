@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tQ+8Zpt/qGo43tpNsk9Pb3p4Gl3LFy5FrVJsOyey3jM=",
+  "Source": "APIRestInventarioMovilEmpresas",
+  "BasePath": "_content/APIRestInventarioMovilEmpresas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

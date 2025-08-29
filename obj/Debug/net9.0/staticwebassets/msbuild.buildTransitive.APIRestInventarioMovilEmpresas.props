@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\APIRestInventarioMovilEmpresas.props" />
+</Project>
