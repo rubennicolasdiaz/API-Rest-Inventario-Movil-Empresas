@@ -1,9 +1,8 @@
 # 🚀 API Rest Inventario Móvil Empresas
-[![Build Status](https://github.com/rubennicolasdiaz/spring-boot-email/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/rubennicolasdiaz/spring-boot-email/actions/workflows/build.yml)
-![Java](https://img.shields.io/badge/Java-21-blue?logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.5-brightgreen?logo=springboot)
-![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
-![Status](https://img.shields.io/badge/Status-Active-success)
+[![Build Status](https://github.com/rubennicolasdiaz/API-Rest-Inventario-Movil-Empresas/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/rubennicolasdiaz/API-Rest-Inventario-Movil-Empresas/actions/workflows/build.yml)
+![C#](https://img.shields.io/badge/C%23-13-blue?logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-9.0-purple?logo=dotnet)
+![Status](https://img.shields.io/badge/Status-Inactive-lightgrey)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
@@ -14,6 +13,7 @@
 - [⚙️ Tecnologías y Herramientas](#️-tecnologías-y-herramientas)
 - [📦 Arquitectura del Proyecto](#-arquitectura-del-proyecto)
 - [🧠 Funcionamiento](#-funcionamiento)
+- [📍 Ubicación y alcance de la API](#-ubicacion)
 - [🔐 Seguridad](#-seguridad)
 - [🎥 Vídeo explicativo en YouTube](#-vídeo-explicativo-en-youtube)
 - [🧾 Licencia](#-licencia)
@@ -81,17 +81,16 @@ Durante dicha sesión, podremos descargar de nuestra API los ficheros de product
 
 Una vez que el usuario ha terminado de usar la App Android y ha finalizado el conteo o actualización de stock de sus productos, se sube un fichero a la API Rest actualizando las unidades de los productos que haya registrado. De esta forma, se automatiza la actualización de stocks del inventario de cualquier empresa registrada. 
 
-## Ubicación y alcance de la API
+## 📍 Ubicación y alcance de la API
 La API Rest de momento funciona en un entorno local y simula un entorno similar al empresarial, donde tendríamos decenas o cientos de empresas registradas en nuestra base de datos. A cada una de estas empresas se le gestiona el inventario, conteo y cambios en el stock de su catálogo de productos. 
 
 Para mayor información, se puede revisar el código fuente en este mismo repositorio o visitar el vídeo explicativo del funcionamiento de la app: https://youtu.be/BRw1Nm-OryU
 
 ## 🔐 Seguridad
-
-Las credenciales (usuario y contraseña del correo) no se hardcodean ni se suben al repositorio.
-Se gestionan mediante variables de entorno tanto en nuestra máquina local (IntelliJ) como en el entorno de despliegue.
+La API incorpora JWT, una vez que nos autenticamos a la base de datos en la nube, la propia API genera un JWT para poder usar los endpoints de la propia API para poder subir y bajar ficheros (Ver proyecto de App-Inventario-Movil-Empresas.
 
 ## 🎥 Vídeo explicativo en YouTube
+
 ▶️ [API Rest Inventario Móvil Empresas - Escrita en C# con .NET 9](https://www.youtube.com/watch?v=BRw1Nm-OryU)  
 
 ## 🧾 Licencia
