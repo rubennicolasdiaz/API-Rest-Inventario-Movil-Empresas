@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIRestInventarioMovilEmpresas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7b16e74b749b0a14451730d1daddbc135148480")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIRestInventarioMovilEmpresas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIRestInventarioMovilEmpresas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

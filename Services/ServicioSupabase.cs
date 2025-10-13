@@ -15,7 +15,7 @@ namespace APIRestIndotInventarioMovil.Services
             _log = logger;
         }
 
-        public async Task<Usuario> DameUsuarioSQLServer(LoginAPI login)
+        public async Task<Usuario> DameUsuarioSupabase(LoginAPI login)
         {
             try
             {

@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\bin",
+    "\\Properties"
   ],
+  "SelectedNode": "\\APIRestInventarioMovilEmpresas.sln",
   "PreviewInSolutionExplorer": false
 }

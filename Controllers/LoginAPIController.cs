@@ -39,7 +39,7 @@ namespace APIRestIndotInventarioMovil.Controllers
 
         private async Task<Usuario> AutenticarUsuarioAsync(LoginAPI usuarioLogin)
         {
-            Usuario usuarioSupabase = await _servicioSupabase.DameUsuarioSQLServer(usuarioLogin); //Login con base datos local SQL Server
+            Usuario usuarioSupabase = await _servicioSupabase.DameUsuarioSupabase (usuarioLogin); //Login con base datos remota Supabase
             
             return usuarioSupabase;
         }

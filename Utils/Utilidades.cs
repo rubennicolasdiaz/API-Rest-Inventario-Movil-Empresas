@@ -5,21 +5,19 @@ namespace APIRestIndotInventarioMovil.Utils
 {
     public static class Utilidades
     {
-        public static UsuarioApiDTO convertirDTO(this Usuario usuarioSQLServer)
+        public static UsuarioApiDTO convertirDTO(this Usuario usuarioSupabase)
         {
-            if (usuarioSQLServer != null)
+            if (usuarioSupabase != null)
             {
                 return new UsuarioApiDTO
                 {
-                    Email = usuarioSQLServer.Email,
-                    Token = usuarioSQLServer.Token,
-                    CodEmpresa = usuarioSQLServer.CodEmpresa
+                    Email = usuarioSupabase.Email,
+                    Token = usuarioSupabase.Token,
+                    CodEmpresa = usuarioSupabase.CodEmpresa
                 };
             }
 
             return null;
         }
     }
-
-
 }

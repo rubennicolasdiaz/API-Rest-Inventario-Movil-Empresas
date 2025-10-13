@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TvzINnbeWPs=",
+  "dgSpecHash": "SFCF4KFWg20=",
   "success": true,
-  "projectFilePath": "C:\\Users\\anjen\\Desktop\\APIRestFicheros_.NET_9-main\\APIRestInventarioMovilEmpresas.csproj",
+  "projectFilePath": "C:\\Users\\anjen\\Desktop\\PROYECTOS\\C#\\rubennicolasdiaz\\API-Rest-Inventario-Movil-Empresas\\APIRestInventarioMovilEmpresas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anjen\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\anjen\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
