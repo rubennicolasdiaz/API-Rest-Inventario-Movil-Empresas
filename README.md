@@ -10,14 +10,14 @@
 ## 📚 Índice
 
 - [📖 Descripción](#-descripción)
-- [⚙️ Tecnologías y Herramientas](#-tecnologías-y-herramientas)
+- [⚙️ Tecnologías y Herramientas](%EF%B8%8F-tecnologías-y-herramientas)
 - [📦 Arquitectura del Proyecto](#-arquitectura-del-proyecto)
 - [🧠 Funcionamiento](#-funcionamiento)
 - [📍 Ubicación y alcance de la API](#-ubicación-y-alcance-de-la-api)
 - [🔐 Seguridad](#-seguridad)
 - [🎥 Vídeo explicativo en YouTube](#-vídeo-explicativo-en-youtube)
 - [🧾 Licencia](#-licencia)
-- [🧑‍💻 Autor](#-autor)
+- [🧑‍💻 Autor](#%E2%80%8D-autor)
 
 ---
 
