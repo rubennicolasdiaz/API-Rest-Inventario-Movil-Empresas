@@ -9,15 +9,15 @@
 
 ## 📚 Índice
 
-- [📖 Descripción](#descripcion)
-- [⚙️ Tecnologías y Herramientas](#tecnologias-y-herramientas)
-- [📦 Arquitectura del Proyecto](#arquitectura-del-proyecto)
-- [🧠 Funcionamiento](#funcionamiento)
-- [📍 Ubicación y alcance de la API](#ubicacion-y-alcance-de-la-api)
-- [🔐 Seguridad](#seguridad)
-- [🎥 Vídeo explicativo en YouTube](#video-explicativo-en-youtube)
-- [🧾 Licencia](#licencia)
-- [🧑‍💻 Autor](#autor)
+- [📖 Descripción](#-descripcion)
+- [⚙️ Tecnologías y Herramientas](#-tecnologias-y-herramientas)
+- [📦 Arquitectura del Proyecto](#-arquitectura-del-proyecto)
+- [🧠 Funcionamiento](#-funcionamiento)
+- [📍 Ubicación y alcance de la API](#-ubicacion-y-alcance-de-la-api)
+- [🔐 Seguridad](#-seguridad)
+- [🎥 Vídeo explicativo en YouTube](#-video-explicativo-en-youtube)
+- [🧾 Licencia](#-licencia)
+- [🧑‍💻 Autor](#-autor)
 
 ---
 
