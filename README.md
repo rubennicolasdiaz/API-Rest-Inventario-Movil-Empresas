@@ -11,7 +11,7 @@
 
 - [📖 Descripción](#-descripción)
 - [⚙️ Tecnologías y Herramientas](#%EF%B8%8F-tecnologías-y-herramientas)
-- [📦 Arquitectura del Proyecto](#-arquitectura-del-proyecto)
+- [🏛  Arquitectura del Proyecto](#%EF%B8%8F-arquitectura-del-proyecto)
 - [🧠 Funcionamiento](#-funcionamiento)
 - [📍 Ubicación y alcance de la API](#-ubicación-y-alcance-de-la-api)
 - [🔐 Seguridad](#-seguridad)
@@ -39,7 +39,7 @@
 
 ---
 
-## 📦 Arquitectura del Proyecto
+## 🏛 Arquitectura del Proyecto
 
 ```text
 APIRestInventarioMovilEmpresas/
